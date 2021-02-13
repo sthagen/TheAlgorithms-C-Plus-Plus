@@ -20,6 +20,7 @@
 ## Data Structures
   * [Avltree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/avltree.cpp)
   * [Binary Search Tree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/binary_search_tree.cpp)
+  * [Binary Search Tree2](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/binary_search_tree2.cpp)
   * [Binaryheap](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/binaryheap.cpp)
   * [Circular Queue Using Linked List](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/circular_queue_using_linked_list.cpp)
   * Cll
@@ -68,6 +69,7 @@
   * [Longest Common Subsequence](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/dynamic_programming/longest_common_subsequence.cpp)
   * [Longest Increasing Subsequence](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/dynamic_programming/longest_increasing_subsequence.cpp)
   * [Longest Increasing Subsequence (Nlogn)](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/dynamic_programming/longest_increasing_subsequence_(nlogn).cpp)
+  * [Longest Palindromic Subsequence](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/dynamic_programming/longest_palindromic_subsequence.cpp)
   * [Matrix Chain Multiplication](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/dynamic_programming/matrix_chain_multiplication.cpp)
   * [Palindrome Partitioning](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/dynamic_programming/palindrome_partitioning.cpp)
   * [Searching Of Element In Dynamic Array](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/dynamic_programming/searching_of_element_in_dynamic_array.cpp)
@@ -143,6 +145,7 @@
   * [Fibonacci](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/fibonacci.cpp)
   * [Fibonacci Fast](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/fibonacci_fast.cpp)
   * [Fibonacci Large](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/fibonacci_large.cpp)
+  * [Fibonacci Matrix Exponentiation](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/fibonacci_matrix_exponentiation.cpp)
   * [Fibonacci Sum](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/fibonacci_sum.cpp)
   * [Gcd Iterative Euclidean](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/gcd_iterative_euclidean.cpp)
   * [Gcd Of N Numbers](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/gcd_of_n_numbers.cpp)
@@ -161,6 +164,7 @@
   * [Ncr Modulo P](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/ncr_modulo_p.cpp)
   * [Number Of Positive Divisors](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/number_of_positive_divisors.cpp)
   * [Power For Huge Numbers](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/power_for_huge_numbers.cpp)
+  * [Power Of Two](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/power_of_two.cpp)
   * [Prime Factorization](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/prime_factorization.cpp)
   * [Prime Numbers](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/prime_numbers.cpp)
   * [Primes Up To Billion](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/primes_up_to_billion.cpp)
@@ -170,6 +174,7 @@
   * [String Fibonacci](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/string_fibonacci.cpp)
   * [Sum Of Binomial Coefficient](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/sum_of_binomial_coefficient.cpp)
   * [Sum Of Digits](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/sum_of_digits.cpp)
+  * [Vector Cross Product](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/vector_cross_product.cpp)
 
 ## Numerical Methods
   * [Bisection Method](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/numerical_methods/bisection_method.cpp)
@@ -231,6 +236,7 @@
   * [Fenwick Tree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/range_queries/fenwick_tree.cpp)
   * [Heavy Light Decomposition](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/range_queries/heavy_light_decomposition.cpp)
   * [Mo](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/range_queries/mo.cpp)
+  * [Persistent Seg Tree Lazy Prop](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/range_queries/persistent_seg_tree_lazy_prop.cpp)
   * [Segtree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/range_queries/segtree.cpp)
   * [Sparse Table](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/range_queries/sparse_table.cpp)
 
