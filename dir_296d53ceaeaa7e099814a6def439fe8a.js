@@ -2,6 +2,7 @@ var dir_296d53ceaeaa7e099814a6def439fe8a =
 [
     [ "armstrong_number.cpp", "d4/d5d/math_2armstrong__number_8cpp.html", "d4/d5d/math_2armstrong__number_8cpp" ],
     [ "binary_exponent.cpp", "de/dcf/binary__exponent_8cpp.html", "de/dcf/binary__exponent_8cpp" ],
+    [ "binomial_calculate.cpp", "d8/db1/binomial__calculate_8cpp.html", "d8/db1/binomial__calculate_8cpp" ],
     [ "check_amicable_pair.cpp", "d5/df6/check__amicable__pair_8cpp.html", "d5/df6/check__amicable__pair_8cpp" ],
     [ "check_factorial.cpp", "d8/dd5/check__factorial_8cpp.html", "d8/dd5/check__factorial_8cpp" ],
     [ "check_prime.cpp", "db/d93/check__prime_8cpp.html", "db/d93/check__prime_8cpp" ],
@@ -14,6 +15,7 @@ var dir_296d53ceaeaa7e099814a6def439fe8a =
     [ "fibonacci.cpp", "d9/d89/fibonacci_8cpp.html", "d9/d89/fibonacci_8cpp" ],
     [ "fibonacci_fast.cpp", "d4/d32/fibonacci__fast_8cpp.html", "d4/d32/fibonacci__fast_8cpp" ],
     [ "fibonacci_large.cpp", "de/de4/fibonacci__large_8cpp.html", "de/de4/fibonacci__large_8cpp" ],
+    [ "fibonacci_matrix_exponentiation.cpp", "da/dc9/fibonacci__matrix__exponentiation_8cpp.html", "da/dc9/fibonacci__matrix__exponentiation_8cpp" ],
     [ "fibonacci_sum.cpp", "de/dc3/fibonacci__sum_8cpp.html", "de/dc3/fibonacci__sum_8cpp" ],
     [ "gcd_iterative_euclidean.cpp", "d4/da0/gcd__iterative__euclidean_8cpp.html", "d4/da0/gcd__iterative__euclidean_8cpp" ],
     [ "gcd_of_n_numbers.cpp", "d1/d11/gcd__of__n__numbers_8cpp.html", "d1/d11/gcd__of__n__numbers_8cpp" ],
@@ -34,6 +36,7 @@ var dir_296d53ceaeaa7e099814a6def439fe8a =
     [ "ncr_modulo_p.cpp", "de/dab/ncr__modulo__p_8cpp.html", "de/dab/ncr__modulo__p_8cpp" ],
     [ "number_of_positive_divisors.cpp", "d0/da2/number__of__positive__divisors_8cpp.html", "d0/da2/number__of__positive__divisors_8cpp" ],
     [ "power_for_huge_numbers.cpp", "df/def/power__for__huge__numbers_8cpp.html", "df/def/power__for__huge__numbers_8cpp" ],
+    [ "power_of_two.cpp", "d4/d38/power__of__two_8cpp.html", "d4/d38/power__of__two_8cpp" ],
     [ "prime_factorization.cpp", "db/d0d/prime__factorization_8cpp.html", "db/d0d/prime__factorization_8cpp" ],
     [ "prime_numbers.cpp", "de/d9b/prime__numbers_8cpp.html", "de/d9b/prime__numbers_8cpp" ],
     [ "primes_up_to_billion.cpp", "d4/d9c/primes__up__to__billion_8cpp.html", "d4/d9c/primes__up__to__billion_8cpp" ],
@@ -42,5 +45,6 @@ var dir_296d53ceaeaa7e099814a6def439fe8a =
     [ "sqrt_double.cpp", "da/d24/sqrt__double_8cpp.html", "da/d24/sqrt__double_8cpp" ],
     [ "string_fibonacci.cpp", "de/d47/string__fibonacci_8cpp.html", "de/d47/string__fibonacci_8cpp" ],
     [ "sum_of_binomial_coefficient.cpp", "d4/d9d/sum__of__binomial__coefficient_8cpp.html", "d4/d9d/sum__of__binomial__coefficient_8cpp" ],
-    [ "sum_of_digits.cpp", "d4/d83/sum__of__digits_8cpp.html", "d4/d83/sum__of__digits_8cpp" ]
+    [ "sum_of_digits.cpp", "d4/d83/sum__of__digits_8cpp.html", "d4/d83/sum__of__digits_8cpp" ],
+    [ "vector_cross_product.cpp", "df/d66/vector__cross__product_8cpp.html", "df/d66/vector__cross__product_8cpp" ]
 ];

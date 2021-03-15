@@ -1,5 +1,6 @@
 var namespaces_dup =
 [
+    [ "abbreviation", "d0/df8/namespaceabbreviation.html", null ],
     [ "activations", "d5/d39/namespaceactivations.html", null ],
     [ "backtracking", "db/dc0/namespacebacktracking.html", [
       [ "n_queens", null, [
@@ -31,11 +32,14 @@ var namespaces_dup =
       [ "solveSudoku", "db/dc0/namespacebacktracking.html#a2b98ee79cdbc02ffd7b1f786f9696892", null ]
     ] ],
     [ "bidirectional_dijkstra", "d4/d13/namespacebidirectional__dijkstra.html", null ],
+    [ "binomial", "d7/d7a/namespacebinomial.html", null ],
+    [ "bit_manipulation", "d7/d81/namespacebit__manipulation.html", null ],
     [ "caesar", "dd/d81/namespacecaesar.html", null ],
     [ "ciphers", "d6/d4e/namespaceciphers.html", "d6/d4e/namespaceciphers" ],
     [ "cut_rod", "d8/d36/namespacecut__rod.html", null ],
     [ "cycle_sort", "d4/dfb/namespacecycle__sort.html", null ],
     [ "data_structures", "d5/d3c/namespacedata__structures.html", "d5/d3c/namespacedata__structures" ],
+    [ "depth_first_search", "d8/da7/namespacedepth__first__search.html", null ],
     [ "disjoint_union", "de/db4/namespacedisjoint__union.html", null ],
     [ "double_hashing", "d0/d65/namespacedouble__hashing.html", "d0/d65/namespacedouble__hashing" ],
     [ "dynamic_programming", "dd/d24/namespacedynamic__programming.html", null ],
@@ -44,6 +48,7 @@ var namespaces_dup =
     [ "geometry", "d5/d5f/namespacegeometry.html", "d5/d5f/namespacegeometry" ],
     [ "gram_schmidt", "d4/d0f/namespacegram__schmidt.html", null ],
     [ "graph", "df/dce/namespacegraph.html", "df/dce/namespacegraph" ],
+    [ "hamming_distance", "d4/d1c/namespacehamming__distance.html", null ],
     [ "heavy_light_decomposition", "db/d6f/namespaceheavy__light__decomposition.html", null ],
     [ "horspool", "d5/d02/namespacehorspool.html", null ],
     [ "inversion", "d9/d13/namespaceinversion.html", null ],
@@ -55,6 +60,7 @@ var namespaces_dup =
     [ "linear_algebra", "d3/d78/namespacelinear__algebra.html", null ],
     [ "linear_probing", "d8/d89/namespacelinear__probing.html", "d8/d89/namespacelinear__probing" ],
     [ "linked_list", "d3/db0/namespacelinked__list.html", null ],
+    [ "list_array", "d9/d27/namespacelist__array.html", null ],
     [ "machine_learning", "d8/d77/namespacemachine__learning.html", "d8/d77/namespacemachine__learning" ],
     [ "math", "dd/d47/namespacemath.html", "dd/d47/namespacemath" ],
     [ "median_search", "da/dd4/namespacemedian__search.html", null ],
@@ -68,6 +74,7 @@ var namespaces_dup =
     [ "ncr_modulo_p", "d4/db9/namespacencr__modulo__p.html", null ],
     [ "neural_network", "d0/d2e/namespaceneural__network.html", null ],
     [ "numerical_methods", "d1/de0/namespacenumerical__methods.html", null ],
+    [ "operations_on_datastructures", "da/d6d/namespaceoperations__on__datastructures.html", "da/d6d/namespaceoperations__on__datastructures" ],
     [ "others", "d0/d6f/namespaceothers.html", "d0/d6f/namespaceothers" ],
     [ "palindrome_partitioning", "d5/d89/namespacepalindrome__partitioning.html", null ],
     [ "pancake_sort", "df/d10/namespacepancake__sort.html", null ],
@@ -700,7 +707,9 @@ var namespaces_dup =
     ] ],
     [ "strings", "df/dcb/namespacestrings.html", null ],
     [ "tree_234", "d6/dab/namespacetree__234.html", null ],
+    [ "trie_operations", "df/d8e/namespacetrie__operations.html", null ],
     [ "util_functions", "d3/d17/namespaceutil__functions.html", null ],
+    [ "vector_cross", "d4/d91/namespacevector__cross.html", null ],
     [ "vigenere", "d6/da2/namespacevigenere.html", null ],
     [ "wiggle_sort", "d0/d52/namespacewiggle__sort.html", null ],
     [ "word_break", "d6/d53/namespaceword__break.html", null ],
