@@ -10,6 +10,12 @@ var namespacemath =
       [ "power", "de/dc3/fibonacci__sum_8cpp.html#a7cf5feaf168b88e74544da59ed830311", null ],
       [ "result", "de/dc3/fibonacci__sum_8cpp.html#aadb40ac4c74a7efc0680b83eeee138aa", null ]
     ] ],
+    [ "linear_recurrence_matrix", null, [
+      [ "get_nth_term_of_recurrence_series", "dc/d52/linear__recurrence__matrix_8cpp.html#af5e240c0cfaabed122a0596f800b3d14", null ],
+      [ "is_zero_matrix", "dc/d52/linear__recurrence__matrix_8cpp.html#a7487322bae85648c89da86f34431c103", null ],
+      [ "matrix_exponentiation", "dc/d52/linear__recurrence__matrix_8cpp.html#ab55e45ae404ea360e9eebac8f63692f7", null ],
+      [ "matrix_multiplication", "dc/d52/linear__recurrence__matrix_8cpp.html#a759a232b9d5ab032062b8560343c6af3", null ]
+    ] ],
     [ "modular_division", null, [
       [ "mod_division", "df/d72/modular__division_8cpp.html#a905e368ae121beb7e7ea35349ddcdac7", null ],
       [ "power", "df/d72/modular__division_8cpp.html#a66cdf93153cbd1408bd74ac68961d179", null ]

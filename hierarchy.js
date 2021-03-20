@@ -39,6 +39,7 @@ var hierarchy =
     [ "machine_learning::neural_network::NeuralNetwork", "d4/df4/classmachine__learning_1_1neural__network_1_1_neural_network.html", null ],
     [ "data_structures::Node", "d9/d49/structdata__structures_1_1_node.html", null ],
     [ "data_structures::tree_234::Node", "dd/d40/classdata__structures_1_1tree__234_1_1_node.html", null ],
+    [ "data_structures::trie_using_hashmap::Trie::Node", "d5/d12/structdata__structures_1_1trie__using__hashmap_1_1_trie_1_1_node.html", null ],
     [ "Node", "db/d8b/struct_node.html", null ],
     [ "node< Kind >", "d5/da1/structnode.html", null ],
     [ "range_queries::perSegTree::Node", "d5/d66/classrange__queries_1_1per_seg_tree_1_1_node.html", null ],
@@ -47,8 +48,8 @@ var hierarchy =
     [ "geometry::jarvis::Point", "d9/d5a/structgeometry_1_1jarvis_1_1_point.html", null ],
     [ "Point", "d8/dc8/struct_point.html", null ],
     [ "query", "dd/d1b/structquery.html", null ],
-    [ "queue< Kind >", "db/da9/classqueue.html", null ],
     [ "Queue", "dc/db5/struct_queue.html", null ],
+    [ "queue< Kind >", "db/da9/classqueue.html", null ],
     [ "data_structures::queue_using_array::Queue_Array", "d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html", null ],
     [ "RBtree", "d8/d72/class_r_btree.html", null ],
     [ "SegmentIntersection", "d4/db4/struct_segment_intersection.html", null ],
@@ -69,6 +70,7 @@ var hierarchy =
     ] ],
     [ "data_structures::tree_234::Tree234", "d3/d95/classdata__structures_1_1tree__234_1_1_tree234.html", null ],
     [ "data_structures::trie", "d0/d3e/classdata__structures_1_1trie.html", null ],
+    [ "data_structures::trie_using_hashmap::Trie", "d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html", null ],
     [ "Trie", "dd/d2f/class_trie.html", null ],
     [ "Trie::TrieNode", "de/d48/struct_trie_1_1_trie_node.html", null ]
 ];

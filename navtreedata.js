@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md69", null ],
-      [ "Features", "index.html#autotoc_md70", null ],
-      [ "Documentation", "index.html#autotoc_md71", null ],
-      [ "Contributions", "index.html#autotoc_md72", null ]
+      [ "Overview", "index.html#autotoc_md70", null ],
+      [ "Features", "index.html#autotoc_md71", null ],
+      [ "Documentation", "index.html#autotoc_md72", null ],
+      [ "Contributions", "index.html#autotoc_md73", null ]
     ] ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md4", null ],
@@ -124,17 +124,17 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "",
-"cpp/io/manip/boolalpha.html",
-"cpp/string/wide/iswupper.html",
-"d1/dc7/linear__probing__hash__table_8cpp.html#a16d34fd3511626a83ab00665d7bc34d1",
-"d3/dce/linkedlist__implentation__usingarray_8cpp.html#a73e11e0871f56342a30da93b6c93e8be",
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md31",
-"d6/dce/rabin__karp_8cpp.html#ac4add2a227a10511e0128d63952030e8",
-"d8/d8a/exponential__search_8cpp.html",
-"da/d24/sqrt__double_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"dc/d38/ordinary__least__squares__regressor_8cpp.html",
-"de/d7b/merge__insertion__sort_8cpp.html#a0cba4fbf287ab8cb978ed7f8fef886b1",
-"globals_o.html"
+"cpp/io/c/vfwscanf.html",
+"cpp/string/wide/iswpunct.html",
+"d1/dc7/linear__probing__hash__table_8cpp.html",
+"d3/dbb/class_cycle_check.html#a399292a33edf87499daa52b51315aca5",
+"d5/d67/complex__numbers_8cpp.html#a5a73e9d4e68af8cedb95bd0864054b89",
+"d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md14",
+"d8/d89/namespacelinear__probing.html",
+"d9/dee/classdouble__linked__list.html#a0525cf734dfd9cd399f3c8d0df138dce",
+"db/dc0/namespacebacktracking.html#a80af16e57cfb6aaab2bf1da4c4db3308",
+"de/d23/disjoint__set_8cpp.html#a44481bb75386fbb0f958a388d4b9f757",
+"globals_func_e.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
