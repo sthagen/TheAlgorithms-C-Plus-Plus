@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['machine_20learning_20algorithms_5178',['Machine Learning Algorithms',['../d9/d66/group__machine__learning.html',1,'']]]
+  ['machine_20learning_20algorithms_5221',['Machine Learning Algorithms',['../d9/d66/group__machine__learning.html',1,'']]]
 ];
