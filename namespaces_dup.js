@@ -32,6 +32,7 @@ var namespaces_dup =
       [ "solve", "db/dc0/namespacebacktracking.html#a932e38e8912742cedf7b5a837168e03a", null ],
       [ "solveSudoku", "db/dc0/namespacebacktracking.html#a2b98ee79cdbc02ffd7b1f786f9696892", null ]
     ] ],
+    [ "base64_encoding", "d9/dc9/namespacebase64__encoding.html", null ],
     [ "bidirectional_dijkstra", "d4/d13/namespacebidirectional__dijkstra.html", null ],
     [ "binomial", "d7/d7a/namespacebinomial.html", null ],
     [ "bit_manipulation", "d7/d81/namespacebit__manipulation.html", null ],
