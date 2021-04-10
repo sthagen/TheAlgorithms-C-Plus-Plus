@@ -1,8 +1,8 @@
 var structmachine__learning_1_1aystar__search_1_1_ay_star_search_1_1_info =
 [
     [ "Info", "da/d70/structmachine__learning_1_1aystar__search_1_1_ay_star_search_1_1_info.html#aaa7ea27346659f0abe2df82ca57fc5a7", null ],
-    [ "Info", "da/d70/structmachine__learning_1_1aystar__search_1_1_ay_star_search_1_1_info.html#a602ddffc710a8b85769efe46872122b4", null ],
-    [ "Info", "da/d70/structmachine__learning_1_1aystar__search_1_1_ay_star_search_1_1_info.html#a6d2dead78a9bdf7f6ceff2bf40eb731f", null ],
+    [ "Info", "da/d70/structmachine__learning_1_1aystar__search_1_1_ay_star_search_1_1_info.html#a695e4314ebc3ab58e13004dc63599fe8", null ],
+    [ "Info", "da/d70/structmachine__learning_1_1aystar__search_1_1_ay_star_search_1_1_info.html#ad3950824936488f66408313b1f8a8ca8", null ],
     [ "Info", "da/d70/structmachine__learning_1_1aystar__search_1_1_ay_star_search_1_1_info.html#a572de12115e39e34dde6e68b707d59f5", null ],
     [ "Info", "da/d70/structmachine__learning_1_1aystar__search_1_1_ay_star_search_1_1_info.html#a6abc89925ae7055a63b428e61525ad7a", null ],
     [ "~Info", "da/d70/structmachine__learning_1_1aystar__search_1_1_ay_star_search_1_1_info.html#aa816af5a64b37c86be8acda89fdefba2", null ],
