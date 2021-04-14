@@ -1,6 +1,9 @@
 var annotated_dup =
 [
     [ "ciphers", "d6/d4e/namespaceciphers.html", [
+      [ "elliptic_curve_key_exchange", "df/d6b/namespaceciphers_1_1elliptic__curve__key__exchange.html", [
+        [ "Point", "d6/d45/structciphers_1_1elliptic__curve__key__exchange_1_1_point.html", "d6/d45/structciphers_1_1elliptic__curve__key__exchange_1_1_point" ]
+      ] ],
       [ "HillCipher", "d6/d26/classciphers_1_1_hill_cipher.html", "d6/d26/classciphers_1_1_hill_cipher" ]
     ] ],
     [ "data_structures", "d5/d3c/namespacedata__structures.html", [
@@ -89,6 +92,14 @@ var annotated_dup =
       [ "stats_computer1", "d7/d7c/classstatistics_1_1stats__computer1.html", "d7/d7c/classstatistics_1_1stats__computer1" ],
       [ "stats_computer2", "d8/dab/classstatistics_1_1stats__computer2.html", "d8/dab/classstatistics_1_1stats__computer2" ]
     ] ],
+    [ "std", "d8/dcc/namespacestd.html", [
+      [ "is_integral< uint128_t >", "d2/dd4/structstd_1_1is__integral_3_01uint128__t_01_4.html", null ],
+      [ "is_arithmetic< uint128_t >", "d2/dfc/structstd_1_1is__arithmetic_3_01uint128__t_01_4.html", null ],
+      [ "is_unsigned< uint128_t >", "d5/d25/structstd_1_1is__unsigned_3_01uint128__t_01_4.html", null ],
+      [ "is_integral< uint256_t >", "d7/d47/structstd_1_1is__integral_3_01uint256__t_01_4.html", null ],
+      [ "is_arithmetic< uint256_t >", "dc/d6d/structstd_1_1is__arithmetic_3_01uint256__t_01_4.html", null ],
+      [ "is_unsigned< uint256_t >", "df/d99/structstd_1_1is__unsigned_3_01uint256__t_01_4.html", null ]
+    ] ],
     [ "binary_search_tree", "d9/dde/classbinary__search__tree.html", "d9/dde/classbinary__search__tree" ],
     [ "Btree", "d9/d90/struct_btree.html", "d9/d90/struct_btree" ],
     [ "cll", "d5/d15/classcll.html", "d5/d15/classcll" ],
@@ -119,5 +130,7 @@ var annotated_dup =
     [ "stack", "d1/dc2/classstack.html", "d1/dc2/classstack" ],
     [ "stack_linkedList", "d2/dc4/classstack__linked_list.html", "d2/dc4/classstack__linked_list" ],
     [ "tower", "d2/d2c/structtower.html", "d2/d2c/structtower" ],
-    [ "Trie", "dd/d2f/class_trie.html", "dd/d2f/class_trie" ]
+    [ "Trie", "dd/d2f/class_trie.html", "dd/d2f/class_trie" ],
+    [ "uint128_t", "db/d9a/classuint128__t.html", "db/d9a/classuint128__t" ],
+    [ "uint256_t", "d1/d83/classuint256__t.html", "d1/d83/classuint256__t" ]
 ];

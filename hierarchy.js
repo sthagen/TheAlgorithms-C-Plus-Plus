@@ -49,6 +49,7 @@ var hierarchy =
     [ "range_queries::perSegTree::Node", "d5/d66/classrange__queries_1_1per_seg_tree_1_1_node.html", null ],
     [ "node< Type >", "d5/da1/structnode.html", null ],
     [ "range_queries::perSegTree", "d8/d28/classrange__queries_1_1per_seg_tree.html", null ],
+    [ "ciphers::elliptic_curve_key_exchange::Point", "d6/d45/structciphers_1_1elliptic__curve__key__exchange_1_1_point.html", null ],
     [ "geometry::jarvis::Point", "d9/d5a/structgeometry_1_1jarvis_1_1_point.html", null ],
     [ "Point", "d8/dc8/struct_point.html", null ],
     [ "query", "dd/d1b/structquery.html", null ],
@@ -76,5 +77,15 @@ var hierarchy =
     [ "data_structures::trie", "d0/d3e/classdata__structures_1_1trie.html", null ],
     [ "data_structures::trie_using_hashmap::Trie", "d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html", null ],
     [ "Trie", "dd/d2f/class_trie.html", null ],
-    [ "Trie::TrieNode", "de/d48/struct_trie_1_1_trie_node.html", null ]
+    [ "Trie::TrieNode", "de/d48/struct_trie_1_1_trie_node.html", null ],
+    [ "std::true_type", "http://en.cppreference.com/w/cpp/types/integral_constant.html", [
+      [ "std::is_arithmetic< uint128_t >", "d2/dfc/structstd_1_1is__arithmetic_3_01uint128__t_01_4.html", null ],
+      [ "std::is_arithmetic< uint256_t >", "dc/d6d/structstd_1_1is__arithmetic_3_01uint256__t_01_4.html", null ],
+      [ "std::is_integral< uint128_t >", "d2/dd4/structstd_1_1is__integral_3_01uint128__t_01_4.html", null ],
+      [ "std::is_integral< uint256_t >", "d7/d47/structstd_1_1is__integral_3_01uint256__t_01_4.html", null ],
+      [ "std::is_unsigned< uint128_t >", "d5/d25/structstd_1_1is__unsigned_3_01uint128__t_01_4.html", null ],
+      [ "std::is_unsigned< uint256_t >", "df/d99/structstd_1_1is__unsigned_3_01uint256__t_01_4.html", null ]
+    ] ],
+    [ "uint128_t", "db/d9a/classuint128__t.html", null ],
+    [ "uint256_t", "d1/d83/classuint256__t.html", null ]
 ];
