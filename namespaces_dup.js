@@ -88,6 +88,7 @@ var namespaces_dup =
     [ "horspool", "d5/d02/namespacehorspool.html", null ],
     [ "inversion", "d9/d13/namespaceinversion.html", null ],
     [ "is_graph_bipartite", "de/d83/namespaceis__graph__bipartite.html", null ],
+    [ "iterative_tree_traversals", "dd/d73/namespaceiterative__tree__traversals.html", null ],
     [ "jarvis", "d5/da7/namespacejarvis.html", null ],
     [ "kadane", "d6/d74/namespacekadane.html", null ],
     [ "Knapsack", "d7/daf/namespace_knapsack.html", null ],
@@ -128,11 +129,12 @@ var namespaces_dup =
     [ "quadratic_probing", "d4/dd2/namespacequadratic__probing.html", "d4/dd2/namespacequadratic__probing" ],
     [ "queue_using_array", "d9/d70/namespacequeue__using__array.html", null ],
     [ "radix_sort", "da/dda/namespaceradix__sort.html", null ],
+    [ "random_pivot_quick_sort", "de/d6b/namespacerandom__pivot__quick__sort.html", null ],
     [ "range_queries", "dd/d69/namespacerange__queries.html", "dd/d69/namespacerange__queries" ],
     [ "rat_maze", "d9/d60/namespacerat__maze.html", null ],
     [ "runge_kutta", "d2/de7/namespacerunge__kutta.html", null ],
     [ "saddleback", "d0/dda/namespacesaddleback.html", null ],
-    [ "search", "d9/dca/namespacesearch.html", null ],
+    [ "search", "d9/dca/namespacesearch.html", "d9/dca/namespacesearch" ],
     [ "shortest_common_supersequence", "d3/deb/namespaceshortest__common__supersequence.html", null ],
     [ "sorting", "d5/d91/namespacesorting.html", [
       [ "cycle_sort", null, [
@@ -156,6 +158,13 @@ var namespaces_dup =
       [ "radix_sort", null, [
         [ "radix", "d8/d61/radix__sort2_8cpp.html#a8df9406972cda58c209b30ebae295daa", null ],
         [ "step_ith", "d8/d61/radix__sort2_8cpp.html#a302672a25ef4561eb41b4f9ef8e518b2", null ]
+      ] ],
+      [ "random_pivot_quick_sort", null, [
+        [ "generateUnsortedArray", "d1/daa/random__pivot__quick__sort_8cpp.html#ad79f6a1484c1a421a4a82992f2490564", null ],
+        [ "getRandomIndex", "d1/daa/random__pivot__quick__sort_8cpp.html#aac5657b4fe2251cd21073f44233f6ea5", null ],
+        [ "partition", "d1/daa/random__pivot__quick__sort_8cpp.html#a96284b18dfdafdd67085166fc0e43246", null ],
+        [ "quickSortRP", "d1/daa/random__pivot__quick__sort_8cpp.html#ab4669ac90ee144c7d0d51ab50890b6b1", null ],
+        [ "showArray", "d1/daa/random__pivot__quick__sort_8cpp.html#ac3281dc34a9cfd7beb332419b8a0aa10", null ]
       ] ],
       [ "strand", null, [
         [ "strand_sort", "dc/dd9/strand__sort_8cpp.html#ad75dc6a599ecfe31dadfaf449ee565f6", null ]
@@ -201,6 +210,7 @@ var namespaces_dup =
       [ "recalculate_hash", "d9/d03/namespacestring__search.html#aed769d565b705a9b3e0eb1ec74088893", null ]
     ] ],
     [ "strings", "df/dcb/namespacestrings.html", null ],
+    [ "sublist_search", "d9/def/namespacesublist__search.html", null ],
     [ "tree_234", "d6/dab/namespacetree__234.html", null ],
     [ "trie_operations", "df/d8e/namespacetrie__operations.html", null ],
     [ "trie_using_hashmap", "d7/d0a/namespacetrie__using__hashmap.html", null ],
