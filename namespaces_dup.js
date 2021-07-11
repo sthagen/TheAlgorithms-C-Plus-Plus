@@ -38,6 +38,7 @@ var namespaces_dup =
     [ "bit_manipulation", "d7/d81/namespacebit__manipulation.html", null ],
     [ "caesar", "dd/d81/namespacecaesar.html", null ],
     [ "ciphers", "d6/d4e/namespaceciphers.html", "d6/d4e/namespaceciphers" ],
+    [ "count_of_set_bits", "dd/dae/namespacecount__of__set__bits.html", null ],
     [ "cut_rod", "d8/d36/namespacecut__rod.html", null ],
     [ "cycle_sort", "d4/dfb/namespacecycle__sort.html", null ],
     [ "data_structures", "d5/d3c/namespacedata__structures.html", "d5/d3c/namespacedata__structures" ],
@@ -51,6 +52,9 @@ var namespaces_dup =
       ] ],
       [ "cut_rod", null, [
         [ "maxProfitByCuttingRod", "d6/d10/cut__rod_8cpp.html#a1cc523a30c18c63eac58220c3c494cfa", null ]
+      ] ],
+      [ "house_robber", null, [
+        [ "houseRobber", "d6/d26/house__robber_8cpp.html#a1e497c3e3f169afe5baaae6a5d40cbc8", null ]
       ] ],
       [ "kadane", null, [
         [ "maxSubArray", "db/dca/kadane2_8cpp.html#af3029007a422a914a85c0b0122f1c7b4", null ]
@@ -86,6 +90,7 @@ var namespaces_dup =
     [ "hamming_distance", "d4/d1c/namespacehamming__distance.html", null ],
     [ "heavy_light_decomposition", "db/d6f/namespaceheavy__light__decomposition.html", null ],
     [ "horspool", "d5/d02/namespacehorspool.html", null ],
+    [ "house_robber", "d2/de1/namespacehouse__robber.html", null ],
     [ "inversion", "d9/d13/namespaceinversion.html", null ],
     [ "is_graph_bipartite", "de/d83/namespaceis__graph__bipartite.html", null ],
     [ "iterative_tree_traversals", "dd/d73/namespaceiterative__tree__traversals.html", null ],
