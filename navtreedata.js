@@ -135,12 +135,12 @@ var NAVTREEINDEX =
 "d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#a832072498abeaa52ad43c4fc99cba248",
 "d4/def/kohonen__som__topology_8cpp.html#a2256c10b16edba377b64a44b6c656908",
 "d6/d26/classciphers_1_1_hill_cipher.html#a427acfac1dbff3f48a2b071d449d965b",
-"d7/d77/class_edge.html#a9a415f211c059647d1b3af8fcf7a0e30",
-"d8/dee/avltree_8cpp.html#a8286388b0743a716145639df3a33e541",
-"da/d70/structmachine__learning_1_1aystar__search_1_1_ay_star_search_1_1_info.html#a6abc89925ae7055a63b428e61525ad7a",
-"db/d9a/classuint128__t.html#a60bf2739c93bb1cd41654fd60c76ae6b",
-"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a9ba4f652baa900f0634822ec380a6996",
-"df/dce/namespacegraph.html#a372ff051a7bc6c91d34a7b58edf8dfce"
+"d7/d77/class_edge.html#a2449478938136b5ab7ef0e7d92e6990b",
+"d8/ddf/sieve__of__eratosthenes_8cpp.html#a60fa6579eab0db3c1c0ab1bf6d651be3",
+"da/d70/structmachine__learning_1_1aystar__search_1_1_ay_star_search_1_1_info.html",
+"db/d9a/classuint128__t.html#a4e02c2c3a6df546d0ec8ceb0ecdc56a6",
+"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a6c5f929afcbad5219646990edee22e18",
+"df/dc8/successive__approximation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
