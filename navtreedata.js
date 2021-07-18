@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md79", null ],
-      [ "Features", "index.html#autotoc_md80", null ],
-      [ "Documentation", "index.html#autotoc_md81", null ],
-      [ "Contributions", "index.html#autotoc_md82", null ]
+      [ "Overview", "index.html#autotoc_md83", null ],
+      [ "Features", "index.html#autotoc_md84", null ],
+      [ "Documentation", "index.html#autotoc_md85", null ],
+      [ "Contributions", "index.html#autotoc_md86", null ]
     ] ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md4", null ],
@@ -128,19 +128,20 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html",
-"cpp/iterator/distance.html",
-"cpp/thread/lock.html",
-"d1/d83/classuint256__t.html#ad5ba734dc60992a6907f2d3462db370a",
-"d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#a832072498abeaa52ad43c4fc99cba248",
-"d4/def/kohonen__som__topology_8cpp.html#a2256c10b16edba377b64a44b6c656908",
-"d6/d26/classciphers_1_1_hill_cipher.html#a427acfac1dbff3f48a2b071d449d965b",
-"d7/d77/class_edge.html#a2449478938136b5ab7ef0e7d92e6990b",
-"d8/ddf/sieve__of__eratosthenes_8cpp.html#a60fa6579eab0db3c1c0ab1bf6d651be3",
-"da/d70/structmachine__learning_1_1aystar__search_1_1_ay_star_search_1_1_info.html",
-"db/d9a/classuint128__t.html#a4e02c2c3a6df546d0ec8ceb0ecdc56a6",
-"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a6c5f929afcbad5219646990edee22e18",
-"df/dc8/successive__approximation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"
+"",
+"cpp/io/c/putchar.html",
+"cpp/string/multibyte/mblen.html",
+"d1/d83/classuint256__t.html#a092a766421ba5833452e86a2357d7cfa",
+"d2/d5a/subset__sum_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"d4/d7a/shell__sort2_8cpp.html#a22ea0d1f7943ebb4371d31e44b465b6d",
+"d5/d90/palindrome__partitioning_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"d6/dd3/ode__midpoint__euler_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97",
+"d8/d89/namespacelinear__probing.html#a6322209aaa91b7bbf16f96e1cc52b746",
+"d9/dde/structdouble__hashing_1_1_entry.html#ae114967c89dbba3b754dc4976bba3248",
+"db/d3c/tower__of__hanoi_8cpp.html#a746d9a3984bba88fd6dd91978f6931ed",
+"dc/db5/struct_queue.html#a7df5a5794b817bccb0d288e3e7893326",
+"de/d9d/classdata__structures_1_1linked__list_1_1link.html#af94c06f3220e5406245680f58b8e7081",
+"globals_u.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
