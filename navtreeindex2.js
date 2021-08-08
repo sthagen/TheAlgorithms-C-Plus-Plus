@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"cpp/string/byte/toupper.html":[9,0,78,456],
 "cpp/string/multibyte/btowc.html":[9,0,78,68],
 "cpp/string/multibyte/c16rtomb.html":[9,0,78,69],
 "cpp/string/multibyte/c32rtomb.html":[9,0,78,70],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "d1/d77/structmst.html#a53e13cb8fe7481d6173bfa72ac509590":[10,0,32,2],
 "d1/d77/structmst.html#a59feb15588a49aac1c243bf649b97c72":[10,0,32,0],
 "d1/d83/classuint256__t.html":[10,0,48],
-"d1/d83/classuint256__t.html#a00d18c74d5cbf3c087665172079e67dd":[10,0,48,50],
-"d1/d83/classuint256__t.html#a02616a4a46727b4c158b2b90de8c75c3":[10,0,48,5]
+"d1/d83/classuint256__t.html#a00d18c74d5cbf3c087665172079e67dd":[10,0,48,50]
 };

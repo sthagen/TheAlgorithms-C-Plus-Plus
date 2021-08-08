@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"cpp/io/c/getchar.html":[9,0,78,181],
 "cpp/io/c/gets.html":[9,0,78,184],
 "cpp/io/c/getwchar.html":[9,0,78,185],
 "cpp/io/c/perror.html":[9,0,78,317],
@@ -174,8 +175,8 @@ var NAVTREEINDEX1 =
 "cpp/numeric/math/round.html":[9,0,78,243],
 "cpp/numeric/math/round.html":[9,0,78,254],
 "cpp/numeric/math/round.html":[9,0,78,362],
-"cpp/numeric/math/scalbn.html":[9,0,78,364],
 "cpp/numeric/math/scalbn.html":[9,0,78,363],
+"cpp/numeric/math/scalbn.html":[9,0,78,364],
 "cpp/numeric/math/signbit.html":[9,0,78,389],
 "cpp/numeric/math/sin.html":[9,0,78,390],
 "cpp/numeric/math/sinh.html":[9,0,78,391],
@@ -203,8 +204,8 @@ var NAVTREEINDEX1 =
 "cpp/string/basic_string/to_wstring.html":[9,0,78,454],
 "cpp/string/byte/atof.html":[9,0,78,34],
 "cpp/string/byte/atoi.html":[9,0,78,35],
-"cpp/string/byte/atoi.html":[9,0,78,36],
 "cpp/string/byte/atoi.html":[9,0,78,37],
+"cpp/string/byte/atoi.html":[9,0,78,36],
 "cpp/string/byte/isalnum.html":[9,0,78,204],
 "cpp/string/byte/isalpha.html":[9,0,78,205],
 "cpp/string/byte/isblank.html":[9,0,78,206],
@@ -248,6 +249,5 @@ var NAVTREEINDEX1 =
 "cpp/string/byte/strtoul.html":[9,0,78,434],
 "cpp/string/byte/strtoul.html":[9,0,78,435],
 "cpp/string/byte/strxfrm.html":[9,0,78,437],
-"cpp/string/byte/tolower.html":[9,0,78,455],
-"cpp/string/byte/toupper.html":[9,0,78,456]
+"cpp/string/byte/tolower.html":[9,0,78,455]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX9 =
 {
+"d9/dde/classbinary__search__tree.html#af4a865ce5244608819b169fc78a41153":[10,0,15,13],
 "d9/dde/classbinary__search__tree.html#af9a2c7c187a7ca3142c77ce342ef3153":[10,0,15,6],
 "d9/dde/structdouble__hashing_1_1_entry.html":[10,0,2,0],
 "d9/dde/structdouble__hashing_1_1_entry.html#a287b92112b6b43b34808a93778873475":[10,0,2,0,0],
@@ -75,8 +76,8 @@ var NAVTREEINDEX9 =
 "da/d50/count__of__trailing__ciphers__in__factorial__n_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,1,1,2],
 "da/d50/count__of__trailing__ciphers__in__factorial__n_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,1,1,0],
 "da/d52/minimum__edit__distance_8cpp.html":[11,0,4,8],
-"da/d52/minimum__edit__distance_8cpp.html#a0138c226bd79ffe6d839c787cfc60347":[11,0,4,8,2],
 "da/d52/minimum__edit__distance_8cpp.html#a0138c226bd79ffe6d839c787cfc60347":[9,0,19,6,1],
+"da/d52/minimum__edit__distance_8cpp.html#a0138c226bd79ffe6d839c787cfc60347":[11,0,4,8,2],
 "da/d52/minimum__edit__distance_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97":[11,0,4,8,1],
 "da/d52/minimum__edit__distance_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,4,8,3],
 "da/d52/minimum__edit__distance_8cpp.html#ade2fcfe0359f3c7691bfaa04b14943e2":[9,0,19,6,0],
@@ -192,8 +193,8 @@ var NAVTREEINDEX9 =
 "da/dac/n__queens__all__solution__optimised_8cpp.html":[11,0,0,4],
 "da/dac/n__queens__all__solution__optimised_8cpp.html#a04090463be4942a69ea91fe7386da905":[11,0,0,4,3],
 "da/dac/n__queens__all__solution__optimised_8cpp.html#a04090463be4942a69ea91fe7386da905":[9,0,3,3,2],
-"da/dac/n__queens__all__solution__optimised_8cpp.html#a23c0547e4fd1708e6fb643b08327a60f":[11,0,0,4,2],
 "da/dac/n__queens__all__solution__optimised_8cpp.html#a23c0547e4fd1708e6fb643b08327a60f":[9,0,3,3,1],
+"da/dac/n__queens__all__solution__optimised_8cpp.html#a23c0547e4fd1708e6fb643b08327a60f":[11,0,0,4,2],
 "da/dac/n__queens__all__solution__optimised_8cpp.html#a9e48455584a4faa33e83dd1891efd9b9":[11,0,0,4,0],
 "da/dac/n__queens__all__solution__optimised_8cpp.html#a9e48455584a4faa33e83dd1891efd9b9":[9,0,3,3,0],
 "da/dac/n__queens__all__solution__optimised_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,0,4,1],
@@ -202,8 +203,8 @@ var NAVTREEINDEX9 =
 "da/db8/count__of__set__bits_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,1,0,2],
 "da/db8/count__of__set__bits_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,1,0,1],
 "da/dc3/linked__list_8cpp.html":[11,0,3,6],
-"da/dc3/linked__list_8cpp.html#ab1a372fe1e605bc0e0987dcdd7361180":[9,0,15,0,2],
 "da/dc3/linked__list_8cpp.html#ab1a372fe1e605bc0e0987dcdd7361180":[11,0,3,6,2],
+"da/dc3/linked__list_8cpp.html#ab1a372fe1e605bc0e0987dcdd7361180":[9,0,15,0,2],
 "da/dc3/linked__list_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,3,6,3],
 "da/dc9/fibonacci__matrix__exponentiation_8cpp.html":[11,0,12,15],
 "da/dc9/fibonacci__matrix__exponentiation_8cpp.html#abc3bc08249058d57cfc8f54a29d9cf9f":[11,0,12,15,0],
@@ -238,6 +239,7 @@ var NAVTREEINDEX9 =
 "db/d01/brent__method__extrema_8cpp.html#a6d0455dd5c30adda100e95f0423c786e":[11,0,13,1,6],
 "db/d01/brent__method__extrema_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,13,1,3],
 "db/d03/_s_t-example.html":[12,0],
+"db/d03/namespacewildcard__matching.html":[9,0,93],
 "db/d07/spiral__print_8cpp.html":[11,0,15,15],
 "db/d07/spiral__print_8cpp.html#a850d3f55e1a8d227176cdcc67352c197":[11,0,15,15,2],
 "db/d07/spiral__print_8cpp.html#acfff36db81326fb990a643ab198ee8a5":[11,0,15,15,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX9 =
 "db/d0d/prime__factorization_8cpp.html#a7fe38b570a51e448430d6a0f072c2f23":[11,0,12,37,4],
 "db/d0d/prime__factorization_8cpp.html#acfb0df439a4beae5a34ef131ce737c1b":[11,0,12,37,3],
 "db/d0d/prime__factorization_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,12,37,0],
-"db/d0d/prime__factorization_8cpp.html#af097796783684712b8326e5b82bfd4fe":[11,0,12,37,5],
-"db/d0d/prime__factorization_8cpp.html#affe577b9bce8f604f5e2f861c63c7099":[11,0,12,37,2],
-"db/d16/0__1__knapsack_8cpp.html":[11,0,4,0]
+"db/d0d/prime__factorization_8cpp.html#af097796783684712b8326e5b82bfd4fe":[11,0,12,37,5]
 };
