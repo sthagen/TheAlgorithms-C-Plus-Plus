@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md84", null ],
-      [ "Features", "index.html#autotoc_md85", null ],
-      [ "Documentation", "index.html#autotoc_md86", null ],
-      [ "Contributions", "index.html#autotoc_md87", null ]
+      [ "Overview", "index.html#autotoc_md87", null ],
+      [ "Features", "index.html#autotoc_md88", null ],
+      [ "Documentation", "index.html#autotoc_md89", null ],
+      [ "Contributions", "index.html#autotoc_md90", null ]
     ] ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md4", null ],
@@ -129,20 +129,20 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"",
-"cpp/io/c/getchar.html",
-"cpp/string/byte/toupper.html",
-"d1/d83/classuint256__t.html#a02616a4a46727b4c158b2b90de8c75c3",
-"d2/d5a/subset__sum_8cpp.html",
-"d4/d68/qr__decompose_8h.html#ad16da2183db22378435042f26af43d5f",
-"d5/d8a/trie__using__hashmap_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"d6/dce/rabin__karp_8cpp.html#a8fb0bc932ba8b582c9f4c71338d050f8",
-"d8/d89/namespacelinear__probing.html#a2de838f453df67b72411eefb7faf833c",
-"d9/dde/classbinary__search__tree.html#ad9912e8574538e86f9bd2c38e7e63d03",
-"db/d0d/prime__factorization_8cpp.html",
-"dc/d5a/rat__maze_8cpp.html#ab99107bfb4c6934cd4691868c66c0aa3",
-"de/d6a/knuth__morris__pratt_8cpp.html",
-"globals.html"
+"annotated.html",
+"cpp/iterator/distance.html",
+"cpp/thread/lock.html",
+"d1/d83/classuint256__t.html#ad5ba734dc60992a6907f2d3462db370a",
+"d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#a832072498abeaa52ad43c4fc99cba248",
+"d4/dd2/namespacequadratic__probing.html",
+"d5/dab/structdata__structures_1_1list__array_1_1list.html#ae5c15d93819c4e437ebb7a1b41f2d594",
+"d7/d35/matrix__exponentiation_8cpp.html#a9977ad12548c4a49dee9dc3f0685aa54",
+"d8/d95/vector__ops_8hpp.html#abe6b58ec16abe0f6f8ac195e04aa8abd",
+"da/d41/uint128__t_8hpp.html#a1b359e53da68ae18fe293dcb3c4d7f9f",
+"db/d71/quadratic__probing__hash__table_8cpp.html#a8f877db9460c8e472719908b9a018ffb",
+"dc/dc5/paranthesis__matching_8cpp.html#a392fb874e547e582e9c66a08a1f23326",
+"de/dc3/fibonacci__sum_8cpp.html#a493fbaa7a94e3b7ca573111237bb3742",
+"globals_vars.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
