@@ -129,20 +129,20 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html",
-"cpp/iterator/distance.html",
-"cpp/thread/lock.html",
-"d1/d83/classuint256__t.html#ad5ba734dc60992a6907f2d3462db370a",
-"d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#a832072498abeaa52ad43c4fc99cba248",
-"d4/db4/struct_segment_intersection.html#a008941b2272866c64cdaf959afa939bf",
-"d5/dab/structdata__structures_1_1list__array_1_1list.html#a3b4abfffc730e07fcbd5844e09add8cd",
-"d7/d24/nqueen__print__all__solutions_8cpp.html#aea343d8a72a39c9a4c0fbcbc362f2648",
-"d8/d95/vector__ops_8hpp.html#a62a418f243cd52b49f59015dddff188e",
-"da/d23/eulers__totient__function_8cpp.html#a35e4874a3e1d67eb708dc57944c8aea0",
-"db/d66/struct_item.html#a05e743552459fc8c2abdc80a0f4f0b0a",
-"dc/db5/struct_queue.html#a1e85ea19bc49931cfcc392533735b0c5",
-"de/d9b/prime__numbers_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"globals_h.html"
+"",
+"cpp/io/c/fwscanf.html",
+"cpp/string/byte/strtoul.html",
+"d1/d77/structmst.html#a59feb15588a49aac1c243bf649b97c72",
+"d2/d58/neural__network_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"d4/d48/hamming__distance_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md45",
+"d6/db0/binomial__dist_8cpp.html#a19ae0a6a2bd200fd1eb0e31b2bf4cc76",
+"d8/d76/morse__code_8cpp.html#a15c66ec8cf4cef0a35c50cbab86965dc",
+"d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485",
+"da/dc3/linked__list_8cpp.html#ab1a372fe1e605bc0e0987dcdd7361180",
+"db/dca/kadane2_8cpp.html#af3029007a422a914a85c0b0122f1c7b4",
+"dd/da8/pigeonhole__sort_8cpp.html#a458410412185a5f09199deaff7157a8d",
+"functions_func.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
