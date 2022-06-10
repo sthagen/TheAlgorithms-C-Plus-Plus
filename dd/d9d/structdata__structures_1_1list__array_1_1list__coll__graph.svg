@@ -22,7 +22,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a target="_blank" xlink:href="http://en.cppreference.com/w/cpp/container/array" xlink:title=" ">
+<g id="a_node2"><a target="_blank" xlink:href="http://en.cppreference.com/w/cpp/container/array.html" xlink:title=" ">
 <polygon fill="white" stroke="black" points="5,-78.5 5,-108.5 98,-108.5 98,-78.5 5,-78.5"/>
 <text text-anchor="start" x="13" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">std::array&lt; uint64</text>
 <text text-anchor="middle" x="51.5" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">_t, 50 &gt;</text>
@@ -39,7 +39,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a target="_blank" xlink:href="http://en.cppreference.com/w/cpp/types/integer" xlink:title=" ">
+<g id="a_node3"><a target="_blank" xlink:href="http://en.cppreference.com/w/cpp/types/integer.html" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="16,-156.5 16,-175.5 87,-175.5 87,-156.5 16,-156.5"/>
 <text text-anchor="middle" x="51.5" y="-163.5" font-family="Helvetica,sans-Serif" font-size="10.00">std::uint64_t</text>
 </a>

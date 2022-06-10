@@ -21,7 +21,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a target="_blank" xlink:href="http://en.cppreference.com/w/cpp/memory/unique_ptr" xlink:title=" ">
+<g id="a_node2"><a target="_blank" xlink:href="http://en.cppreference.com/w/cpp/memory/unique_ptr.html" xlink:title=" ">
 <polygon fill="white" stroke="black" points="10.5,-89.5 10.5,-119.5 138.5,-119.5 138.5,-89.5 10.5,-89.5"/>
 <text text-anchor="start" x="18.5" y="-107.5" font-family="Helvetica,sans-Serif" font-size="10.00">std::unique_ptr&lt; binary</text>
 <text text-anchor="middle" x="74.5" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">_search_tree::bst_node &gt;</text>
@@ -63,7 +63,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a target="_blank" xlink:href="http://en.cppreference.com/w/cpp/types/size_t" xlink:title=" ">
+<g id="a_node4"><a target="_blank" xlink:href="http://en.cppreference.com/w/cpp/types/size_t.html" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="156.5,-95 156.5,-114 218.5,-114 218.5,-95 156.5,-95"/>
 <text text-anchor="middle" x="187.5" y="-102" font-family="Helvetica,sans-Serif" font-size="10.00">std::size_t</text>
 </a>

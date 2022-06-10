@@ -12,7 +12,7 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a target="_blank" xlink:href="http://en.cppreference.com/w/cpp/types/integral_constant" xlink:title=" ">
+<g id="a_node1"><a target="_blank" xlink:href="http://en.cppreference.com/w/cpp/types/integral_constant.html" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-95.5 0,-114.5 77,-114.5 77,-95.5 0,-95.5"/>
 <text text-anchor="middle" x="38.5" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00">std::true_type</text>
 </a>

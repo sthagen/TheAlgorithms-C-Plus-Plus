@@ -115,7 +115,7 @@ var sectionId = 'dynsection-2';
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a target="_blank" xlink:href="http://en.cppreference.com/w/cpp/container/vector/size#" xlink:title=" ">
+<g id="a_node7"><a target="_blank" xlink:href="http://en.cppreference.com/w/cpp/container/vector/size.html#" xlink:title=" ">
 <polygon fill="white" stroke="black" points="262.5,-157 262.5,-176 349.5,-176 349.5,-157 262.5,-157"/>
 <text text-anchor="middle" x="306" y="-164" font-family="Helvetica,sans-Serif" font-size="10.00">std::vector::size</text>
 </a>
