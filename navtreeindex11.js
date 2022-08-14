@@ -1,5 +1,10 @@
 var NAVTREEINDEX11 =
 {
+"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a28944bb16ec22650b47fe3e80e3e13f8":[10,0,1,5,0,20],
+"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a306a30931f54c84098b38d6bc8f4a956":[10,0,1,5,0,15],
+"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a441cbee9896391f2b167d5aa7b4f8c95":[10,0,1,5,0,8],
+"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a4808acb43668ff8cfd6f7cb44ceedad3":[10,0,1,5,0,5],
+"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a4a37381c0ef93d5ae2118b2e554974dd":[10,0,1,5,0,18],
 "dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a5438d0a47850f520b2262b5a42f75b71":[10,0,1,5,0,11],
 "dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a607d8201b00b142bf1d6a34df2f936e8":[10,0,1,5,0,19],
 "dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a650f0ef26b7450e1addb5d80bb0ed629":[10,0,1,5,0,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX11 =
 "de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a1c0d27198372b36ef71bc58af8336b9c":[10,0,8,2,0,6],
 "de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a2e683b271d8d5cd63e0d09cf8aaa325c":[10,0,8,2,0,3],
 "de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a534645d1aabdf1a7e5897c85376f173d":[10,0,8,2,0,2],
-"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a5cf972a2c994a4fa1a89fc77bd5ad503":[10,0,8,2,0,5],
-"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#ab6a17a04aa93aaaef71e038e8cc2edeb":[10,0,8,2,0,8],
-"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#abb44646a26a446efae7704c80efc011b":[10,0,8,2,0,1],
-"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#abcb1cc8da7b6759dc92cbe0254697c56":[10,0,8,2,0,0],
-"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#adb2b6be741b0500ee75d89b6d06b5d50":[10,0,8,2,0,4],
-"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#af6f974381f523fdb981fc2d843bbf4a1":[10,0,8,2,0,7]
+"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a5cf972a2c994a4fa1a89fc77bd5ad503":[10,0,8,2,0,5]
 };
