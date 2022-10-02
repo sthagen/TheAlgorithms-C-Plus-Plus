@@ -16,7 +16,7 @@ Being a contributor at The Algorithms, we request you to follow the points menti
 
 - You did your own work.
   - No plagiarism is allowed. Any plagiarized work will not be merged.
-- Your work will be distributed under the [MIT License](https://github.com/TheAlgoritms/C-Plus-Plus/blob/master/LICENSE) once your pull request has been merged.
+- Your work will be distributed under the [MIT License](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/LICENSE) once your pull request has been merged.
 - Please follow the repository guidelines and standards mentioned below.
 
 **New implementation** New implementations are welcome!
@@ -37,7 +37,7 @@ You can add new algorithms or data structures that are **not present in the repo
 - You can suggest reasonable changes to existing algorithms.
 - Strictly use snake_case (underscore_separated) in filenames.
 - If you have added or modified code, please make sure the code compiles before submitting.
-- Our automated testing runs [__CMake__](https://cmake.org/) on all the pull requests, so please be sure that your code passes before submitting.
+- Our automated testing runs [**CMake**](https://cmake.org/) on all the pull requests, so please be sure that your code passes before submitting.
 - Please conform to [Doxygen](https://www.doxygen.nl/manual/docblocks.html) standards and document the code as much as possible. This not only facilitates the readers but also generates the correct info on the website.
 - **Be consistent in the use of these guidelines.**
 
@@ -212,7 +212,7 @@ clang-tidy --fix --quiet -p build subfolder/file_to_check.cpp --
 
 #### Code Formatter
 
-[`__clang-format__`](https://clang.llvm.org/docs/ClangFormat.html) is used for code formatting.
+[`clang-format`](https://clang.llvm.org/docs/ClangFormat.html) is used for code formatting.
 
 - Installation (only needs to be installed once.)
   - Mac (using home-brew): `brew install clang-format`
