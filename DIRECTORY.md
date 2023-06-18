@@ -120,6 +120,9 @@
   * [Tree Height](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/dynamic_programming/tree_height.cpp)
   * [Word Break](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/dynamic_programming/word_break.cpp)
 
+## Games
+  * [Memory Game](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/games/memory_game.cpp)
+
 ## Geometry
   * [Graham Scan Algorithm](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/geometry/graham_scan_algorithm.cpp)
   * [Graham Scan Functions](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/geometry/graham_scan_functions.hpp)
@@ -168,6 +171,7 @@
   * [Md5](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/hashing/md5.cpp)
   * [Quadratic Probing Hash Table](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/hashing/quadratic_probing_hash_table.cpp)
   * [Sha1](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/hashing/sha1.cpp)
+  * [Sha256](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/hashing/sha256.cpp)
 
 ## Machine Learning
   * [A Star Search](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/machine_learning/a_star_search.cpp)
